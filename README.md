@@ -1,5 +1,5 @@
 # Daniel Curilla's Resume
-Instead of writing a plain old word document, I wanted to try *developing* my resume using the LaTex language and Git version control. Why would one want to do such a thing? 
+Instead of writing a plain old word document, I wanted to *develop* my resume using the LaTex language and Git version control. Why would one want to do such a thing? (It seems so extra...) 
 1. By hosting my resume on GitHub, I can view the progression of my resume over time through my commit history. I think that is pretty neat! 
 2. I can avoid the annoying formatting issues that so often come with Microsoft word
 3. I can hone my github version control skills
